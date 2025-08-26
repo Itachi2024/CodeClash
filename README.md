@@ -92,7 +92,7 @@ Experience CodeClash live at [https://codeclash-demo.vercel.app](https://codecla
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Mayankdaya/CodeClash.git
+   git clone https://github.com/Itachi2024/CodeClash.git
    cd CodeClash
    ```
 
@@ -429,5 +429,5 @@ These features make it easy to find and challenge other users in real-time, enha
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/Mayankdaya">Mayank Daya</a></p>
+  <p>Built with ❤️ by <a href="https://github.com/Itachi2024">Sourabh Joshi</a></p>
 </div>
