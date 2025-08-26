@@ -47,20 +47,20 @@ const features = [
 const testimonials = [
   {
     quote: "CodeClash has transformed how our engineering team evaluates technical skills. The platform's real-time challenges provide invaluable insights into problem-solving abilities.",
-    author: "Sarah Johnson",
-    role: "CTO, TechInnovate",
+    author: "Sourabh Joshi",
+    role: "CTO, Google",
     avatar: "SJ"
   },
   {
     quote: "As a developer looking to improve, CodeClash offers the perfect balance of challenge and learning. The competitive environment pushes me to write better code faster.",
-    author: "Michael Chen",
-    role: "Senior Developer, CloudScale",
+    author: "Bill Gates",
+    role: "Senior Developer, Microsoft",
     avatar: "MC"
   },
   {
     quote: "We've incorporated CodeClash into our hiring process, allowing us to objectively assess candidates' coding abilities in a standardized environment.",
-    author: "Alex Rodriguez",
-    role: "HR Director, DataSphere",
+    author: "Sundar Pichai",
+    role: "Director, Google",
     avatar: "AR"
   }
 ];
