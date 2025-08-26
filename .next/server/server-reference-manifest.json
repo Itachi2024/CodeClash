@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40cc9bc906bdf3c09dcf5709227d7f9edda1cd7901": {
+      "workers": {
+        "app/matching/page": {
+          "moduleId": "[project]/.next-internal/server/app/matching/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generateProblemFlow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/matching/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "DpYWMDREqTZiTs5gZv0iMBkWJSNhb1t1Cx1g7Hc2f5s="
+}
